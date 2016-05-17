@@ -1,0 +1,8 @@
+Python 2.7.
+Es más estable.
+Tiene mucha demanda a nivel comercial. Ejemplo: Las distribuciones Unix vienen instalado Python, así mismo hay muchos paquetes hechos para esta versión.
+Mayor soporte en la instalación de paquetes de terceros para trabajar con Python.
+
+Python 3.4.
+Fue lanzado en marzo del 2014
+Su código es más limpio dejando un poco la compatibilidad con versiones 2.*.
